@@ -1,0 +1,16 @@
+html {
+    margin: none;
+    background-color: #faedb9;
+}
+
+header {
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+}
+
+#result-num {
+    color:red;
+}
