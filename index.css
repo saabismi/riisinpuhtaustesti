@@ -4,13 +4,34 @@ html {
 }
 
 header {
+    margin-top:150px;
     text-align: center;
+    margin-bottom: 40px;
+}
+
+header p {
+    font-size: 14pt;
+}
+
+#main-title {
+    font-size: 26pt;
+    cursor: pointer;
+}
+
+#test {
+    font-size: 14pt;
+}
+
+button, input[type=reset] {
+    font-size: 12pt;
 }
 
 #result {
+    display: none;
     text-align: center;
 }
 
 #result-num {
+    font-size: 30pt;
     color:red;
 }
