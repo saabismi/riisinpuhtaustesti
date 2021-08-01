@@ -3,7 +3,7 @@ Läpällä tehty suomennos Rice Purity Testistä. Mukana myös Suomi-spesifejä 
 
 Koodattu nopeasti ja kömpelösti, kysymykset tällä hetkellä kovakoodattuna html:ään. 
 
-# Huimat ominaisuudet:
+## Huimat ominaisuudet:
 
 - otsikkoa klikkaamalla sivu reloadaa
 - siinäpä ne oliki
