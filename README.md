@@ -3,6 +3,8 @@ Läpällä tehty suomennos Rice Purity Testistä. Mukana myös Suomi-spesifejä 
 
 Koodattu nopeasti ja kömpelösti, kysymykset tällä hetkellä kovakoodattuna html:ään. 
 
+Testiin pääsee tästä: https://saabismi.github.io/riisinpuhtaustesti/
+
 ## Huimat ominaisuudet:
 
 - otsikkoa klikkaamalla sivu reloadaa
